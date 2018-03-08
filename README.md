@@ -6,3 +6,8 @@ This is a simple Earthquake Tracker app that use USGS server api to locate Earth
 <b>PreferenceFragment<b> - For implementing settings activity<br>
 <b>Preference.OnPreferenceChangeListener<b><br>
  <b>RecyclerView.Adapter<b> - Adapter for recyclerview.
+  
+  # Screenshot
+<img src="https://github.com/Smarpit-Singh/EarthquakeReport/blob/master/screen_earthquake_demo.png" width="300"/>  
+<img src="https://github.com/Smarpit-Singh/EarthquakeReport/blob/master/screen_earthquake_demo_2.png" width="300"/>
+<img src="https://github.com/Smarpit-Singh/EarthquakeReport/blob/master/screen_earthquake_demo_3.png"/> 
